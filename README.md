@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Shehzor Memon</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Shehzor</a> is a MERN Stack Developer from Pakistan, with experience building optimized, scalable web applications for 2+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/developer-shehzor/" target="_blank" rel="noreferrer">Shehzor</a> is a MERN Stack Developer from Pakistan, with experience building optimized, scalable web applications for 2+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 
 <!-- GIF -->
@@ -37,9 +37,9 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me **[developershehzor@gmail.com](mailto:cloudchamp44@gmail.com)**
+
 
 
 
